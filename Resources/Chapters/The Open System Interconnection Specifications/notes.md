@@ -31,3 +31,6 @@ It encourages industry standardization by defining the specific functions that o
 It allows various types of network hardware and software to communicate.
 It prevents changes in one layer from affecting other layers, facilitating development and making application programming much easier.
 
+#### Layers in OSI Model
+
+|Application Layer|File, print, message, database and application services|
